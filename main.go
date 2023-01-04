@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"crud/utils"
+	"github.com/aiweiii/paper-test/utils"
 )
 
 func main() {
